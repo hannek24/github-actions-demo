@@ -35,5 +35,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           echo `hostname`
-          echo `ifconfig -all`
+          echo `ip address show`
           echo `whoami`
